@@ -1,0 +1,66 @@
+[
+  {
+    "isim": "Slipknot",
+    "kalori": "Metal",
+    "karbonhidrat": "Duality",
+    "protein": "Corey Taylor",
+    "yag": "1995 Des Moines, Iowa",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/js.png?raw=true"
+  },
+  {
+    "isim": "Rammstein",
+    "kalori": "Metal",
+    "karbonhidrat": "Sonne",
+    "protein": "Till Lindemann",
+    "yag": " 1994  Rheinland-Pfalz Germany ",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/ts.png?raw=true"
+  },
+  {
+    "isim": "TophaneBoys",
+    "kalori": "Rap",
+    "karbonhidrat": "Tophaneli Killa",
+    "protein": "Şam",
+    "yag": "2025 İstanbul Türkiye ",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/py.png?raw=true"
+  },
+  {
+    "isim": "istanbulTrip",
+    "kalori": "Rap",
+    "karbonhidrat": "Sıfır Sıkıntı",
+    "protein": "Maestro",
+    "yag": "2016  İstanbul Türkiye",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/html.png?raw=true"
+  },
+  {
+    "isim": "The Rolling Stones",
+    "kalori": "Rock",
+    "karbonhidrat": "Pain İt Black",
+    "protein": "MickJager",
+    "yag": "1962 London Eng",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/css.png?raw=true"
+  },
+  {
+    "isim": "N.W.A",
+    "kalori": "HipHop",
+    "karbonhidrat": "Eazy-E",
+    "protein": "real muthaphuckkin g",
+    "yag": "1986 ABD",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/php.png?raw=true"
+  },
+  {
+    "isim": "Thug Life",
+    "kalori": "HipHop",
+    "karbonhidrat": "2pac",
+    "protein": "All Eyez On Me",
+    "yag": "1986 ABD California",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/kotlin.png?raw=true"
+  },
+  {
+    "isim": "Korn",
+    "kalori": "Metal",
+    "karbonhidrat": "Jonathan Davis",
+    "protein": "TWİST",
+    "yag": "1993, ABD",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/csharp.png?raw=true"
+  }
+]
